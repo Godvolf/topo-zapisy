@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/topo-zapisy/static/css/main.f855e6bc.css",
+    "main.js": "/topo-zapisy/static/js/main.460758e8.js",
+    "static/js/453.b5ead789.chunk.js": "/topo-zapisy/static/js/453.b5ead789.chunk.js",
+    "static/media/logo.svg": "/topo-zapisy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/topo-zapisy/index.html",
+    "main.f855e6bc.css.map": "/topo-zapisy/static/css/main.f855e6bc.css.map",
+    "main.460758e8.js.map": "/topo-zapisy/static/js/main.460758e8.js.map",
+    "453.b5ead789.chunk.js.map": "/topo-zapisy/static/js/453.b5ead789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.460758e8.js"
+  ]
+}
